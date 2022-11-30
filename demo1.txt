@@ -1,0 +1,8 @@
+Esta es una prueba del uso de git
+Probaremos las claves y la subida al repositorio
+para salir es :qa
+para salir de un commit puedes pulsar ESC varias veces para asegurarte de que estás en modo comando y después escribir :q! para salir sin guardar cambios. Si ya tienes un prompt abajo con los dos puntos, basta que pongas q – 
+abulafia
+
+git remote set-url origin https://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@github.com/YhoAsakura/PruebaDemo1.git
+Token@github.com/usuario/repo.git
